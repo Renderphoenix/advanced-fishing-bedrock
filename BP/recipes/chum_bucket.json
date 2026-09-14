@@ -1,0 +1,36 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_shaped":  {
+                                    "description":  {
+                                                        "identifier":  "advanced_fishing:chum_bucket"
+                                                    },
+                                    "tags":  [
+                                                 "crafting_table"
+                                             ],
+                                    "pattern":  [
+                                                    "FEF",
+                                                    "SWS",
+                                                    "FBF"
+                                                ],
+                                    "key":  {
+                                                "F":  {
+                                                          "item":  "minecraft:rotten_flesh"
+                                                      },
+                                                "E":  {
+                                                          "item":  "minecraft:spider_eye"
+                                                      },
+                                                "S":  {
+                                                          "item":  "minecraft:bone"
+                                                      },
+                                                "W":  {
+                                                          "item":  "minecraft:bread"
+                                                      },
+                                                "B":  {
+                                                          "item":  "minecraft:bucket"
+                                                      }
+                                            },
+                                    "result":  {
+                                                   "item":  "advanced_fishing:chum_bucket"
+                                               }
+                                }
+}

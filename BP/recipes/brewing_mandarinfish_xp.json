@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_brewing_mix": {
+    "description": {
+      "identifier": "advanced_fishing:brewing_mandarinfish_xp"
+    },
+    "tags": [
+      "brewing_stand"
+    ],
+    "input": "minecraft:potion_type:awkward",
+    "reagent": "advanced_fishing:mandarinfish",
+    "output": "minecraft:experience_bottle"
+  }
+}

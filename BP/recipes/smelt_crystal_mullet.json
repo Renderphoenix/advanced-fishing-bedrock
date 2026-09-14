@@ -1,0 +1,15 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_furnace":  {
+                                     "description":  {
+                                                         "identifier":  "advanced_fishing:smelt_crystal_mullet"
+                                                     },
+                                     "tags":  [
+                                                  "furnace",
+                                                  "smoker",
+                                                  "campfire"
+                                              ],
+                                     "input":  "advanced_fishing:crystal_mullet",
+                                     "output":  "minecraft:cooked_cod"
+                                 }
+}

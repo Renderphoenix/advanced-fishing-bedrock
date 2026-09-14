@@ -1,0 +1,180 @@
+{
+    "resource_pack_name":  "Advanced Fishing Bedrock",
+    "texture_name":  "atlas.items",
+    "texture_data":  {
+                         "abyssal_lurker":  {
+                                                "textures":  "textures/items/advanced_fishing/abyssal_lurker"
+                                            },
+                         "amethyst_catfish":  {
+                                                  "textures":  "textures/items/advanced_fishing/amethyst_catfish"
+                                              },
+                         "angelfish":  {
+                                           "textures":  "textures/items/advanced_fishing/angelfish"
+                                       },
+                         "angler_fish":  {
+                                             "textures":  "textures/items/advanced_fishing/angler_fish"
+                                         },
+                         "blaze_pike":  {
+                                            "textures":  "textures/items/advanced_fishing/blaze_pike"
+                                        },
+                         "blazing_fishing_pole":  {
+                                                      "textures":  "textures/items/advanced_fishing/blazing_fishing_pole"
+                                                  },
+                         "blazing_fishing_pole_cast":  {
+                                                           "textures":  "textures/items/advanced_fishing/blazing_fishing_pole_cast"
+                                                       },
+                         "blue_jellyfish":  {
+                                                "textures":  "textures/items/advanced_fishing/blue_jellyfish"
+                                            },
+                         "bone_fish":  {
+                                           "textures":  "textures/items/advanced_fishing/bone_fish"
+                                       },
+                         "brown_shroomfin":  {
+                                                 "textures":  "textures/items/advanced_fishing/brown_shroomfin"
+                                             },
+                         "catfish":  {
+                                         "textures":  "textures/items/advanced_fishing/catfish"
+                                     },
+                         "cave_trout":  {
+                                            "textures":  "textures/items/advanced_fishing/cave_trout"
+                                        },
+                         "charged_bullhead":  {
+                                                  "textures":  "textures/items/advanced_fishing/charged_bullhead"
+                                              },
+                         "chorus_koi":  {
+                                            "textures":  "textures/items/advanced_fishing/chorus_koi"
+                                        },
+                         "chum_bucket":  {
+                                             "textures":  "textures/items/advanced_fishing/chum_bucket"
+                                         },
+                         "coal_crucian":  {
+                                              "textures":  "textures/items/advanced_fishing/coal_crucian"
+                                          },
+                         "cooked_catfish":  {
+                                                "textures":  "textures/items/advanced_fishing/cooked_catfish"
+                                            },
+                         "cooked_crucian":  {
+                                                "textures":  "textures/items/advanced_fishing/cooked_crucian"
+                                            },
+                         "cooked_eel":  {
+                                            "textures":  "textures/items/advanced_fishing/cooked_eel"
+                                        },
+                         "cooked_jellyfish":  {
+                                                  "textures":  "textures/items/advanced_fishing/cooked_jellyfish"
+                                              },
+                         "cooked_koi":  {
+                                            "textures":  "textures/items/advanced_fishing/cooked_koi"
+                                        },
+                         "cooked_pike":  {
+                                             "textures":  "textures/items/advanced_fishing/cooked_pike"
+                                         },
+                         "copper_minnow":  {
+                                               "textures":  "textures/items/advanced_fishing/copper_minnow"
+                                           },
+                         "crystal_mullet":  {
+                                                "textures":  "textures/items/advanced_fishing/crystal_mullet"
+                                            },
+                         "cursed_koi":  {
+                                            "textures":  "textures/items/advanced_fishing/cursed_koi"
+                                        },
+                         "diamond_koi":  {
+                                             "textures":  "textures/items/advanced_fishing/diamond_koi"
+                                         },
+                         "emerald_salmon":  {
+                                                "textures":  "textures/items/advanced_fishing/emerald_salmon"
+                                            },
+                         "ender_shad":  {
+                                            "textures":  "textures/items/advanced_fishing/ender_shad"
+                                        },
+                         "explosive_crucian":  {
+                                                   "textures":  "textures/items/advanced_fishing/explosive_crucian"
+                                               },
+                         "flarefin_koi":  {
+                                              "textures":  "textures/items/advanced_fishing/flarefin_koi"
+                                          },
+                         "frost_minnow":  {
+                                              "textures":  "textures/items/advanced_fishing/frost_minnow"
+                                          },
+                         "fungi_catfish":  {
+                                               "textures":  "textures/items/advanced_fishing/fungi_catfish"
+                                           },
+                         "glacier_anchovy":  {
+                                                 "textures":  "textures/items/advanced_fishing/glacier_anchovy"
+                                             },
+                         "golden_koi":  {
+                                            "textures":  "textures/items/advanced_fishing/golden_koi"
+                                        },
+                         "green_jellyfish":  {
+                                                 "textures":  "textures/items/advanced_fishing/green_jellyfish"
+                                             },
+                         "iron_bass":  {
+                                           "textures":  "textures/items/advanced_fishing/iron_bass"
+                                       },
+                         "magikarp":  {
+                                          "textures":  "textures/items/advanced_fishing/magikarp"
+                                      },
+                         "magma_jellyfish":  {
+                                                 "textures":  "textures/items/advanced_fishing/magma_jellyfish"
+                                             },
+                         "mandarinfish":  {
+                                              "textures":  "textures/items/advanced_fishing/mandarinfish"
+                                          },
+                         "mud_tuna":  {
+                                          "textures":  "textures/items/advanced_fishing/mud_tuna"
+                                      },
+                         "nether_sturgeon":  {
+                                                 "textures":  "textures/items/advanced_fishing/nether_sturgeon"
+                                             },
+                         "obsidian_bream":  {
+                                                "textures":  "textures/items/advanced_fishing/obsidian_bream"
+                                            },
+                         "pearl_sardine":  {
+                                               "textures":  "textures/items/advanced_fishing/pearl_sardine"
+                                           },
+                         "pike":  {
+                                      "textures":  "textures/items/advanced_fishing/pike"
+                                  },
+                         "piranha":  {
+                                         "textures":  "textures/items/advanced_fishing/piranha"
+                                     },
+                         "quartz_chub":  {
+                                             "textures":  "textures/items/advanced_fishing/quartz_chub"
+                                         },
+                         "red_shroomfin":  {
+                                               "textures":  "textures/items/advanced_fishing/red_shroomfin"
+                                           },
+                         "ruffe":  {
+                                       "textures":  "textures/items/advanced_fishing/ruffe"
+                                   },
+                         "sandy_bass":  {
+                                            "textures":  "textures/items/advanced_fishing/sandy_bass"
+                                        },
+                         "snowy_walleye":  {
+                                               "textures":  "textures/items/advanced_fishing/snowy_walleye"
+                                           },
+                         "sparkling_eel":  {
+                                               "textures":  "textures/items/advanced_fishing/sparkling_eel"
+                                           },
+                         "specular_snapper":  {
+                                                  "textures":  "textures/items/advanced_fishing/specular_snapper"
+                                              },
+                         "sponge_eater":  {
+                                              "textures":  "textures/items/advanced_fishing/sponge_eater"
+                                          },
+                         "spookyfin":  {
+                                           "textures":  "textures/items/advanced_fishing/spookyfin"
+                                       },
+                         "squid":  {
+                                       "textures":  "textures/items/advanced_fishing/squid"
+                                   },
+                         "sunfish":  {
+                                         "textures":  "textures/items/advanced_fishing/sunfish"
+                                     },
+                         "swamp_plaice":  {
+                                              "textures":  "textures/items/advanced_fishing/swamp_plaice"
+                                          },
+                         "withered_crucian":  {
+                                                  "textures":  "textures/items/advanced_fishing/withered_crucian"
+                                              }
+                     }
+}

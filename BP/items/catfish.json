@@ -1,0 +1,32 @@
+﻿{
+    "format_version":  "1.20.0",
+    "minecraft:item":  {
+                           "description":  {
+                                               "identifier":  "advanced_fishing:catfish",
+                                               "menu_category":  {
+                                                                     "category":  "items",
+                                                                     "group":  "itemGroup.name.rawFood"
+                                                                 }
+                                           },
+                           "components":  {
+                                              "minecraft:icon":  {
+                                                                     "texture":  "catfish"
+                                                                 },
+                                              "minecraft:display_name":  {
+                                                                             "value":  "Catfish"
+                                                                         },
+                                              "minecraft:max_stack_size":  64,
+                                              "minecraft:hand_equipped":  false,
+                                              "minecraft:food":  {
+                                                                     "nutrition":  3,
+                                                                     "saturation_modifier":  0.2,
+                                                                     "can_always_eat":  false
+                                                                 },
+                                              "minecraft:use_animation":  "eat",
+                                              "minecraft:use_modifiers":  {
+                                                                              "use_duration":  1.6,
+                                                                              "movement_modifier":  0.35
+                                                                          }
+                                          }
+                       }
+}

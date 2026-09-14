@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "advanced_fishing:blazing_bobber",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/blazing_bobber"
+      },
+      "geometry": {
+        "default": "geometry.blazing_bobber"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    }
+  }
+}

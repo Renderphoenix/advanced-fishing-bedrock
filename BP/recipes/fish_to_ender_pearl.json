@@ -1,0 +1,19 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_shapeless":  {
+                                       "description":  {
+                                                           "identifier":  "advanced_fishing:fish_to_ender_pearl"
+                                                       },
+                                       "tags":  [
+                                                    "crafting_table"
+                                                ],
+                                       "ingredients":  [
+                                                           {
+                                                               "item":  "advanced_fishing:pearl_sardine"
+                                                           }
+                                                       ],
+                                       "result":  {
+                                                      "item":  "minecraft:ender_pearl"
+                                                  }
+                                   }
+}

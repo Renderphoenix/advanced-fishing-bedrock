@@ -1,0 +1,274 @@
+﻿{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "item",
+                                          "name":  "minecraft:cod",
+                                          "weight":  25
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "minecraft:salmon",
+                                          "weight":  15
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "minecraft:tropical_fish",
+                                          "weight":  5
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "minecraft:pufferfish",
+                                          "weight":  5
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:pike",
+                                          "weight":  12
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:catfish",
+                                          "weight":  10
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:ruffe",
+                                          "weight":  10
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:sandy_bass",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:mud_tuna",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:snowy_walleye",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:frost_minnow",
+                                          "weight":  6
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:angelfish",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:squid",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:blue_jellyfish",
+                                          "weight":  7
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:piranha",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:sparkling_eel",
+                                          "weight":  6
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:golden_koi",
+                                          "weight":  5
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:abyssal_lurker",
+                                          "weight":  5
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:crystal_mullet",
+                                          "weight":  5
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:coal_crucian",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:copper_minnow",
+                                          "weight":  8
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:iron_bass",
+                                          "weight":  6
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:bone_fish",
+                                          "weight":  5
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:green_jellyfish",
+                                          "weight":  4
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:explosive_crucian",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:swamp_plaice",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:glacier_anchovy",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:sunfish",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:mandarinfish",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:sponge_eater",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:angler_fish",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:specular_snapper",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:cave_trout",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:red_shroomfin",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:brown_shroomfin",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:charged_bullhead",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:amethyst_catfish",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:emerald_salmon",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:diamond_koi",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:cursed_koi",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:spookyfin",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:ender_shad",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:pearl_sardine",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:chorus_koi",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:nether_sturgeon",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:magma_jellyfish",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:obsidian_bream",
+                                          "weight":  3
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:withered_crucian",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:quartz_chub",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:fungi_catfish",
+                                          "weight":  2
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:flarefin_koi",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:blaze_pike",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "item",
+                                          "name":  "advanced_fishing:magikarp",
+                                          "weight":  1
+                                      }
+                                  ]
+                  }
+              ]
+}

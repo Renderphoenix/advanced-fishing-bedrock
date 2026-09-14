@@ -1,0 +1,19 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_shapeless":  {
+                                       "description":  {
+                                                           "identifier":  "advanced_fishing:fish_to_lily_pad"
+                                                       },
+                                       "tags":  [
+                                                    "crafting_table"
+                                                ],
+                                       "ingredients":  [
+                                                           {
+                                                               "item":  "advanced_fishing:swamp_plaice"
+                                                           }
+                                                       ],
+                                       "result":  {
+                                                      "item":  "minecraft:waterlily"
+                                                  }
+                                   }
+}

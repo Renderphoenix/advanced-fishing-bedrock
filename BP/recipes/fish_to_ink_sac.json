@@ -1,0 +1,19 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_shapeless":  {
+                                       "description":  {
+                                                           "identifier":  "advanced_fishing:fish_to_ink_sac"
+                                                       },
+                                       "tags":  [
+                                                    "crafting_table"
+                                                ],
+                                       "ingredients":  [
+                                                           {
+                                                               "item":  "advanced_fishing:squid"
+                                                           }
+                                                       ],
+                                       "result":  {
+                                                      "item":  "minecraft:ink_sac"
+                                                  }
+                                   }
+}

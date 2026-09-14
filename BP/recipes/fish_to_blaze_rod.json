@@ -1,0 +1,19 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_shapeless":  {
+                                       "description":  {
+                                                           "identifier":  "advanced_fishing:fish_to_blaze_rod"
+                                                       },
+                                       "tags":  [
+                                                    "crafting_table"
+                                                ],
+                                       "ingredients":  [
+                                                           {
+                                                               "item":  "advanced_fishing:blaze_pike"
+                                                           }
+                                                       ],
+                                       "result":  {
+                                                      "item":  "minecraft:blaze_rod"
+                                                  }
+                                   }
+}

@@ -1,0 +1,15 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_furnace":  {
+                                     "description":  {
+                                                         "identifier":  "advanced_fishing:smelt_piranha"
+                                                     },
+                                     "tags":  [
+                                                  "furnace",
+                                                  "smoker",
+                                                  "campfire"
+                                              ],
+                                     "input":  "advanced_fishing:piranha",
+                                     "output":  "minecraft:cooked_cod"
+                                 }
+}

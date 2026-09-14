@@ -1,0 +1,15 @@
+﻿{
+    "format_version":  "1.12.0",
+    "minecraft:recipe_furnace":  {
+                                     "description":  {
+                                                         "identifier":  "advanced_fishing:smelt_fungi_catfish"
+                                                     },
+                                     "tags":  [
+                                                  "furnace",
+                                                  "smoker",
+                                                  "campfire"
+                                              ],
+                                     "input":  "advanced_fishing:fungi_catfish",
+                                     "output":  "advanced_fishing:cooked_catfish"
+                                 }
+}

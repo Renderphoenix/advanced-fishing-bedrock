@@ -1,0 +1,29 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "advanced_fishing:chum_bucket",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.misc"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "chum_bucket"
+      },
+      "minecraft:display_name": {
+        "value": "Chum Bucket\n§7Toss it into water to attract fish§r"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:durability": {
+        "max_durability": 4
+      },
+      "minecraft:use_modifiers": {
+        "use_duration": 0.4,
+        "movement_modifier": 0.8
+      }
+    }
+  }
+}

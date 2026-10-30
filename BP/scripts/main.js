@@ -406,9 +406,7 @@ function finishReelIn(player, data) {
         }
 
         // Damage rod
-        if (data.rodItem) {
-            damageEquippedRod(player, data.rodItem);
-        }
+        damageEquippedRod(player);
     } else {
         player.dimension.playSound("random.pop", player.location, { volume: 0.6, pitch: 1.2 });
         player.onScreenDisplay.setActionBar("§7Reeled in.§r");
@@ -420,9 +418,13 @@ function finishReelIn(player, data) {
     activeBobbers.delete(player.id);
 }
 
-function damageEquippedRod(player, rodItem) {
+function damageEquippedRod(player) {
     const equippable = player.getComponent("minecraft:equippable");
     if (!equippable) return;
+
+    // Re-read the live item: the snapshot taken at reel start may be stale
+    const rodItem = equippable.getEquipment("Mainhand");
+    if (!rodItem || rodItem.typeId !== "advanced_fishing:blazing_fishing_pole") return;
 
     const dur = rodItem.getComponent("minecraft:durability");
     if (!dur) return;
@@ -743,4 +745,4 @@ system.runInterval(() => {
     }
 }, 40);
 
-console.warn("§6[Advanced Fishing] V2.0 Blazing Rod casting, reeling comeback & visible string active!§r");
+console.warn("§6[Advanced Fishing] V1.1.0 Blazing Rod casting, reeling comeback & visible string active!§r");

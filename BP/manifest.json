@@ -1,12 +1,12 @@
 {
   "format_version": 2,
   "header": {
-    "name": "§6Advanced Fishing §e[BP] §av1.0.0",
+    "name": "§6Advanced Fishing §e[BP] §av1.1.0",
     "description": "§eThe definitive Bedrock port of Advanced Fishing from RLCraft!§r\n§bOverhauls fishing mechanics: biome-specific catches, cave-depth fishing, Nether lava fishing, chum buckets, and custom effects.\n\n§6[EXPERIMENTAL GAMEPLAY REQUIRED]:§r\n§a✔ Beta APIs §7(Turn ON in world settings for custom JS scripting & mechanics)\n\n§7Original Java Mod: §fNightKosh (Advanced Fishing) / Shivaxi (RLCraft)\n§7Bedrock Adaptation: §fRenderphoenix & devsuki",
     "uuid": "f2c61323-c366-460f-b9a3-af10bbd280b8",
     "version": [
       1,
-      0,
+      1,
       0
     ],
     "min_engine_version": [
@@ -21,7 +21,7 @@
       "uuid": "caf1881f-869b-4007-942c-459e45240ecf",
       "version": [
         1,
-        0,
+        1,
         0
       ]
     },
@@ -33,7 +33,7 @@
       "uuid": "38d0fa0f-263a-4aa5-b26d-6b66046aceb8",
       "version": [
         1,
-        0,
+        1,
         0
       ]
     }
@@ -43,7 +43,7 @@
       "uuid": "544455c8-6252-4e27-9f52-df82a30b320e",
       "version": [
         1,
-        0,
+        1,
         0
       ]
     },
@@ -51,5 +51,12 @@
       "module_name": "@minecraft/server",
       "version": "1.10.0"
     }
-  ]
+  ],
+  "metadata": {
+    "authors": [
+      "Renderphoenix",
+      "devsuki"
+    ],
+    "product_type": "addon"
+  }
 }

@@ -1,12 +1,12 @@
 {
   "format_version": 2,
   "header": {
-    "name": "§6Advanced Fishing §b[RP] §av1.0.0",
+    "name": "§6Advanced Fishing §b[RP] §av1.1.0",
     "description": "§eThe definitive Bedrock port of Advanced Fishing from RLCraft!§r\n§bAdds 43+ biome and dimension exclusive fishes, blazing fishing pole, chum buckets, authentic items, textures, and realistic fishing physics.\n\n§7Original Java Mod: §fNightKosh (Advanced Fishing) / Shivaxi (RLCraft)\n§7Bedrock Adaptation: §fRenderphoenix & devsuki",
     "uuid": "544455c8-6252-4e27-9f52-df82a30b320e",
     "version": [
       1,
-      0,
+      1,
       0
     ],
     "min_engine_version": [
@@ -21,9 +21,16 @@
       "uuid": "e91902d2-229a-4ce6-8a59-749e3a9e9f42",
       "version": [
         1,
-        0,
+        1,
         0
       ]
     }
-  ]
+  ],
+  "metadata": {
+    "authors": [
+      "Renderphoenix",
+      "devsuki"
+    ],
+    "product_type": "addon"
+  }
 }
